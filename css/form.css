@@ -3,7 +3,7 @@
 } */
 
 body{
-    background:linear-gradient(to right, blue, red);
+    background:linear-gradient(to right, blue, yellow);
     display: flex;
     justify-content: center;
     align-items: center;
